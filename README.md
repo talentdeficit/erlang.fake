@@ -6,7 +6,8 @@ a Makefile to shim [rebar](rebar) for [erlang.mk](erlang.mk)
 
 ### instructions ###
 
-drop this in your project root so that [erlang.mk](erlang.mk) doesn't ignore your rebar.config
+drop this Makefile in your project root so that
+[erlang.mk](erlang.mk) doesn't ignore your rebar.config
 
 also bug [essen](essen) about making this unesscessary
 
