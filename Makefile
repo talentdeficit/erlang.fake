@@ -12,3 +12,5 @@ tests:
 
 clean:
 	rebar clean
+
+.PHONY: all deps app tests clean
