@@ -1,15 +1,15 @@
 erlang.fake (v0.1.0)
 ====================
 
-a Makefile to shim [rebar](rebar) for [erlang.mk](erlang.mk)
+a Makefile to shim [rebar][rebar] for [erlang.mk][erlang.mk]
 
 
 ### instructions ###
 
 drop this Makefile in your project root so that
-[erlang.mk](erlang.mk) doesn't ignore your rebar.config
+[erlang.mk][erlang.mk] doesn't ignore your rebar.config
 
-also bug [essen](essen) about making this unesscessary
+also bug [essen][essen] about making this unesscessary
 
 
 ### license ###
