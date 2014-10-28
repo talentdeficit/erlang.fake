@@ -13,4 +13,7 @@ tests:
 clean:
 	rebar clean
 
-.PHONY: all deps app tests clean
+distclean: clean
+	rebar delete-deps
+
+.PHONY: all deps app tests clean distclean
