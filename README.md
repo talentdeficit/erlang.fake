@@ -3,6 +3,7 @@ erlang.fake (v0.1.0)
 
 a Makefile to shim [rebar][rebar] for [erlang.mk][erlang.mk]
 
+if you need the inverse, check out [rebar.fake][rebar.fake]
 
 ### instructions ###
 
@@ -40,3 +41,4 @@ THE SOFTWARE.
 [rebar]: https://github.com/rebar/rebar
 [erlang.mk]: https://github.com/essen/erlang.mk
 [essen]: https://github.com/essen
+[rebar.fake]: https://github.com/crownedgrouse/rebar.fake
